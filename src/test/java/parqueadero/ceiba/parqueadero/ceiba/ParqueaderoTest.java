@@ -14,7 +14,7 @@ public class ParqueaderoTest {
 	@Test
 	public void test() {
 		
-		assertEquals("test ejecutado correctamente", Parqueadero.testear());
+		assertEquals("test ejecutado correctament", Parqueadero.testear());
 	}
 
 }
